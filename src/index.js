@@ -20,7 +20,7 @@ const router = createBrowserRouter([
     // },
 ],
     {
-        // basename: "/" /* does not appear necessary */
+        // basename: "/marios-website" /* does not appear necessary */
     })
 
 ReactDOM.createRoot(document.getElementById("app")).render(

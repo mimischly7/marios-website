@@ -90,7 +90,7 @@ function About() {
 
                     <a
                         href="/data/resume_final.pdf"
-                        download="mimis-resume"
+                        download="marios-resume"
                         className="download-resume">
                         Download
                     </a>

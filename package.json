@@ -1,7 +1,7 @@
 {
-  "name": "mimis-website",
+  "name": "marios-website",
   "version": "0.2.0",
-  "homepage": "https://mimischly7.github.io",
+  "homepage": "https://mimischly7.github.io/marios-website/",
   "private": true,
   "dependencies": {
     "core-js": "^3.37.1",
