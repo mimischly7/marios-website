@@ -25,7 +25,7 @@ const ExperienceBox = (props) => {
                 {tech_tags.map((tag) => <li>{tag}</li>)}
             </ul>
             <a href={link} target="_blank" className="github-link">
-                <i className="fa-brands fa-github"></i> View on GitHub
+                <i className="fa-brands fa-github"></i> View More
             </a>
         </article>
     );

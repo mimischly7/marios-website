@@ -1,1 +1,0 @@
-https://web.stanford.edu/class/cs110/summer-2021/lecture-notes/lecture-03/

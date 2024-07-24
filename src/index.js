@@ -14,10 +14,10 @@ const router = createBrowserRouter([
         path: "/",
         element: <About/>
     },
-    {
-        path: "/posts",
-        element: <PostCatalog/>
-    },
+    // {
+    //     path: "/posts",
+    //     element: <PostCatalog/>
+    // },
 ],
     {
         // basename: "/" /* does not appear necessary */

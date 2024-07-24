@@ -20,7 +20,7 @@ function About() {
                         <li><a href="#projects">Projects</a></li>
                         <li><a href="#resume">Resume</a></li>
                         <li><a href="#contact">Contact</a></li>
-                        <li><a href="/posts">Blog</a></li>
+                        {/*<li><a href="/posts">Blog</a></li>*/}
                     </ul>
                 </nav>
             </header>
@@ -45,7 +45,7 @@ function About() {
             <section id="home">
 
                 <div className="profile-picture">
-                    <img src="/images/portrait2.jpg" alt="Mimis Chlympatsos" style={{width: "300px"}}></img>
+                    <img src="/images/portrait.jpg" alt="Marios Chlympatsos" style={{width: "300px"}}></img>
                 </div>
                 <div className="welcome-text">
                     <h1>{welcome_json.title}</h1>

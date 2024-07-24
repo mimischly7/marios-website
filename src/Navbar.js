@@ -10,7 +10,7 @@ function Navbar() {
                 <li><a href="/#resume">Resume</a></li>
                 <li><a href="/#contact">Contact</a></li>
                 {/*<li><a href="/posts">Blog</a></li>*/ /*difference?*/}
-                <li><Link to="/posts"> Blog </Link></li>
+                {/*<li><Link to="/posts"> Blog </Link></li>*/}
             </ul>
         </nav>
     </header>
